@@ -1,8 +1,4 @@
 # odin-recipes
-The Odin Project's "Recipes" project step
+Personal repo for the "Odin Recipes" project from The Odin Project.
 
-In this project, the aim is to utilize the knowledge gained in the HTML section of The Odin Project.
-
-Specifically, I aim to utilize boilerplate code typed by my own hand to reinforce my current familiarity with HTML, as well as give structure to this recipes page.  In addition to this boilerplate code, I will include proper titles, headings, text formatting, and anchor links to different recipes around the web that I am supplied with by The Odin Project.
-
-Once this step is complete and my HTML is created, I will push this HTML into my GitHub repository (with a helpful commit message) for use later when I will have to revisit it for the CSS section.
+The aim is to reinforce my current familiarity of HTML and CSS to make a visually appealing site for the project, and to keep the scope of the page limited to what is asked so that I don't work on this thing too long needlessly.  I have so much more of the cirriculum to go through! 
