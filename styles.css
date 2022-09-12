@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(190, 51, 1);
+}
+.title {
+    font-size: 50px;
+    text-align: center;
+    font-family: "Aboreto", sans-serif;
+    color:white;
+}
+
+img.center {
+    border-style:outset;
+    border-color: rgb(255, 136, 0);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+ul {
+    text-align: center;
+}
+
+a:link {
+    font-size: 24px;
+    color:white;
+}
+
+a:hover {
+    color: rgb(255, 208, 0)
+}
+
+a:visited {
+    color: black;
+}
